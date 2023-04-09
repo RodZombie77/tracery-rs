@@ -32,3 +32,4 @@ maplit = "^1"
 
 [package.metadata."docs.rs"]
 all-features = true
+tracery = "0.2.1"
